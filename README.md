@@ -22,7 +22,7 @@ settings.gradle
 rootProject.name = "<project_name>"
 ```
 
-### After doning the above steps run `./gradlew rename` to update the project package structure.
+### After doing the above steps run `./gradlew rename` to update the project package structure.
 
 This project was created using the [Ktor Project Generator](https://start.ktor.io).
 
