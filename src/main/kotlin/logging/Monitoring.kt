@@ -1,4 +1,4 @@
-package com.eventbook.logging
+package com.eventbook.address.logging
 
 import io.ktor.server.application.*
 import io.ktor.server.plugins.calllogging.*

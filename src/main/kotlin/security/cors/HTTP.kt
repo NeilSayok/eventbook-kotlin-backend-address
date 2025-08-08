@@ -1,4 +1,4 @@
-package com.eventbook.security.cors
+package com.eventbook.address.security.cors
 
 import io.ktor.http.*
 import io.ktor.server.application.*

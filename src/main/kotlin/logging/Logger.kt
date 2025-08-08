@@ -1,6 +1,6 @@
-package com.eventbook.logging
+package com.eventbook.address.logging
 
-import com.eventbook.BuildConfig
+import com.eventbook.address.BuildConfig
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 

@@ -1,4 +1,4 @@
-package com.eventbook.database
+package com.eventbook.address.database
 
 import io.ktor.http.*
 import io.ktor.server.application.*

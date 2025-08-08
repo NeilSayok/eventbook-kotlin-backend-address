@@ -1,4 +1,4 @@
-package com.eventbook.common.base
+package com.eventbook.address.common.base
 
 import com.fasterxml.jackson.annotation.JsonInclude
 import io.ktor.http.*

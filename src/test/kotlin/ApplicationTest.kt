@@ -1,4 +1,4 @@
-package com.eventbook
+package com.eventbook.address
 
 import io.ktor.client.request.*
 import io.ktor.http.*

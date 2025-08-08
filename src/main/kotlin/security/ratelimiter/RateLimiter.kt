@@ -1,4 +1,4 @@
-package com.eventbook.security.ratelimiter
+package com.eventbook.address.security.ratelimiter
 
 import io.github.flaxoos.ktor.server.plugins.ratelimiter.RateLimiting
 import io.github.flaxoos.ktor.server.plugins.ratelimiter.implementations.TokenBucket

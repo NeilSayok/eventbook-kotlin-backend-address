@@ -1,4 +1,4 @@
-package com.eventbook.common.model
+package com.eventbook.address.common.model
 
 data class SuccessResponse(
     val success: Boolean = true

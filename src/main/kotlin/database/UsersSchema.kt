@@ -1,4 +1,4 @@
-package com.eventbook.database
+package com.eventbook.address.database
 
 import kotlinx.coroutines.Dispatchers
 import kotlinx.serialization.Serializable

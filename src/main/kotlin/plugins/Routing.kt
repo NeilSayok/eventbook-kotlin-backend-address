@@ -1,4 +1,4 @@
-package com.eventbook.plugins
+package com.eventbook.address.plugins
 
 import com.fasterxml.jackson.annotation.JsonInclude
 import com.fasterxml.jackson.databind.DeserializationFeature

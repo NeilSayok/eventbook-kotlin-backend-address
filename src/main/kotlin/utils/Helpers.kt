@@ -1,6 +1,6 @@
-package com.eventbook.utils
+package com.eventbook.address.utils
 
-import com.eventbook.common.base.BaseResponse
+import com.eventbook.address.common.base.BaseResponse
 import io.ktor.http.*
 import io.ktor.server.plugins.*
 import io.ktor.server.response.*

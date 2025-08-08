@@ -1,11 +1,11 @@
-package com.eventbook
+package com.eventbook.address
 
-import com.eventbook.database.configureDatabases
-import com.eventbook.di.configureFrameworks
-import com.eventbook.logging.configureMonitoring
-import com.eventbook.plugins.configureRouting
-import com.eventbook.security.cors.configureHTTP
-import com.eventbook.security.ratelimiter.configureAdministration
+import com.eventbook.address.database.configureDatabases
+import com.eventbook.address.di.configureFrameworks
+import com.eventbook.address.logging.configureMonitoring
+import com.eventbook.address.plugins.configureRouting
+import com.eventbook.address.security.cors.configureHTTP
+import com.eventbook.address.security.ratelimiter.configureAdministration
 import io.ktor.server.application.*
 import io.ktor.server.engine.*
 import io.ktor.server.netty.*

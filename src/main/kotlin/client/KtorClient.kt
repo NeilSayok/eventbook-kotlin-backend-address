@@ -1,4 +1,4 @@
-package com.eventbook.client
+package com.eventbook.address.client
 
 import io.ktor.client.*
 import io.ktor.client.engine.cio.*
